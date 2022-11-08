@@ -2,7 +2,7 @@ Flask
 numpy
 pandas
 scikit-learn
-xgboost
+xgboost==0.90
 gunicorn
 itsdangerous
 Jinja2
